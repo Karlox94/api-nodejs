@@ -1,0 +1,24 @@
+{
+  "status": {
+    "code": 200,
+    "msg": "Operación exitosa",
+    "transactionId": "1111"
+  },
+  "data": {
+    "productId": "",
+    "fileName": "",
+    "fileURL": "",
+    "formats": [
+      {
+        "spanText": "PDF",
+        "value": "pdf",
+        "iconName": "download-file"
+      },
+      {
+        "spanText": "Excel",
+        "value": "xlsx",
+        "iconName": "file-invoice"
+      }
+    ]
+  }
+}

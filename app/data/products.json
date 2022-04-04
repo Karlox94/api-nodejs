@@ -1,0 +1,113 @@
+{
+  "status": {
+      "code": 200,
+      "msg": "Operación exitosa",
+      "transactionId": "1111"
+  },
+  "data": [
+      {
+          "productId": "product-0",
+          "accountName": "Bancolombia 0",
+          "accountNumber": "01178596301",
+          "accountType": "Corriente",
+          "lastMovement": "02/12/2004",
+          "exchangeBalance": "$ 9.000.000",
+          "totalBalance": "$ 21.000.000",
+          "aviableBalance": "$ 10.000.000"
+      },
+      {
+          "productId": "product-1",
+          "accountName": "Bancolombia 0",
+          "accountNumber": "01178596302",
+          "accountType": "Ahorro",
+          "lastMovement": "02/12/2004",
+          "exchangeBalance": "$ 9.000.000",
+          "totalBalance": "$ 21.000.000",
+          "aviableBalance": "$ 10.000.000"
+      },
+      {
+          "productId": "product-2",
+          "accountName": "Bancolombia 0",
+          "accountNumber": "01178596303",
+          "accountType": "Corriente",
+          "lastMovement": "02/12/2004",
+          "exchangeBalance": "$ 9.000.000",
+          "totalBalance": "$ 21.000.000",
+          "aviableBalance": "$ 10.000.000"
+      },
+      {
+          "productId": "product-3",
+          "accountName": "Bancolombia 0",
+          "accountNumber": "01178596304",
+          "accountType": "Ahorro",
+          "lastMovement": "02/12/2004",
+          "exchangeBalance": "$ 9.000.000",
+          "totalBalance": "$ 21.000.000",
+          "aviableBalance": "$ 10.000.000"
+      },
+      {
+          "productId": "product-4",
+          "accountName": "Bancolombia 0",
+          "accountNumber": "01178596305",
+          "accountType": "Ahorro",
+          "lastMovement": "02/12/2004",
+          "exchangeBalance": "$ 9.000.000",
+          "totalBalance": "$ 21.000.000",
+          "aviableBalance": "$ 10.000.000"
+      },
+      {
+          "productId": "product-5",
+          "accountName": "Bancolombia 0",
+          "accountNumber": "01178596306",
+          "accountType": "Corriente",
+          "lastMovement": "02/12/2004",
+          "exchangeBalance": "$ 9.000.000",
+          "totalBalance": "$ 21.000.000",
+          "aviableBalance": "$ 10.000.000"
+      },
+      {
+          "productId": "product-6",
+          "accountName": "Bancolombia 0",
+          "accountNumber": "01178596307",
+          "accountType": "Corriente",
+          "lastMovement": "02/12/2004",
+          "exchangeBalance": "$ 9.000.000",
+          "totalBalance": "$ 21.000.000",
+          "aviableBalance": "$ 10.000.000"
+      },
+      {
+          "productId": "product-7",
+          "accountName": "Bancolombia 0",
+          "accountNumber": "01178596308",
+          "accountType": "Ahorro",
+          "lastMovement": "02/12/2004",
+          "exchangeBalance": "$ 9.000.000",
+          "totalBalance": "$ 21.000.000",
+          "aviableBalance": "$ 10.000.000"
+      },
+      {
+          "productId": "product-8",
+          "accountName": "Bancolombia 0",
+          "accountNumber": "01178596309",
+          "accountType": "Ahorro",
+          "lastMovement": "02/12/2004",
+          "exchangeBalance": "$ 9.000.000",
+          "totalBalance": "$ 21.000.000",
+          "aviableBalance": "$ 10.000.000"
+      },
+      {
+          "productId": "product-9",
+          "accountName": "Bancolombia 0",
+          "accountNumber": "011785963010",
+          "accountType": "Corriente",
+          "lastMovement": "02/12/2004",
+          "exchangeBalance": "$ 9.000.000",
+          "totalBalance": "$ 21.000.000",
+          "aviableBalance": "$ 10.000.000"
+      }
+  ],
+  "pagination": {
+      "currentPage": 0,
+      "totalRegister": 50
+  }
+}

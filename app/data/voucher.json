@@ -1,0 +1,11 @@
+{
+  "status": {
+    "code": 200,
+    "msg": "Comprobante enviado correctamente.",
+    "transactionId": "1111"
+  },
+  "data": {
+    "voucher": "",
+    "receiveres": ""
+  }
+}
