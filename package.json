@@ -5,6 +5,7 @@
   "main": "app/server.js",
   "scripts": {
     "start": "nodemon app/server.js",
+    "credits": "nodemon app/credits.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
