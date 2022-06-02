@@ -1,0 +1,11 @@
+{
+  "status": {
+    "code": 200,
+    "msg": "Operación exitosa",
+    "transactionId": "1111"
+  },
+  "data": {
+    "minimumAmount": 350000,
+    "totalAmount": 6000000
+  }
+}

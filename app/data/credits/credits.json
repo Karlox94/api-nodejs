@@ -1,0 +1,23 @@
+{
+  "status": {
+    "code": 200,
+    "msg": "Operación exitosa",
+    "transactionId": "1111"
+  },
+  "data": [
+    {
+      "name": "Nombre credito 1",
+      "creditNumber": "213456789221",
+      "minimumPayment": 500000,
+      "fullPayment": 2500000,
+      "dueDate": "02 Mar 2022"
+    },
+    {
+      "name": "Nombre credito 2",
+      "creditNumber": "213456789221",
+      "minimumPayment": 200000,
+      "fullPayment": 400000,
+      "dueDate": "05 Ago 2022"
+    }
+  ]
+}

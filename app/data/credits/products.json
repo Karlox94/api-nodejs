@@ -1,0 +1,23 @@
+{
+  "status": {
+    "code": 200,
+    "msg": "Operación exitosa",
+    "transactionId": "1111"
+  },
+  "data": [
+    {
+      "name": "Producto 1",
+      "accountNumber": "515367213169",
+      "availableBalance": 15000000,
+      "bank": "Bancolobia",
+      "type": "Cuenta ahorro"
+    },
+    {
+      "name": "Producto 2",
+      "accountNumber": "545648516554",
+      "availableBalance": 752000,
+      "bank": "Bancolobia",
+      "type": "Cuenta ahorro"
+    }
+  ]
+}

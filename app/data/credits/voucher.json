@@ -1,0 +1,11 @@
+{
+  "status": {
+    "code": 200,
+    "msg": "Comprobante generado correctamente.",
+    "transactionId": "1111"
+  },
+  "data": {
+    "fileName": "",
+    "fileURL": ""
+  }
+}

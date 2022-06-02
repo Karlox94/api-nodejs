@@ -1,0 +1,10 @@
+{
+  "status": {
+    "code": 200,
+    "msg": "Operación exitosa",
+    "transactionId": "1111"
+  },
+  "data": {
+    "hasHidden": true
+  }
+}

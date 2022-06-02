@@ -1,0 +1,14 @@
+{
+  "status": {
+    "code": 200,
+    "msg": "Operación exitosa",
+    "transactionId": "1111"
+  },
+  "data": {
+    "transactionStatus": "error",
+    "transactionMessage": "No fue posible realizar el pago, porque no cuentas con los permisos para realizar esta transacción.",
+    "transactionTime": "14:25:56",
+    "transactionDate": "24 Mayo 2022",
+    "voucherNumber": "34fg67h4x"
+  }
+}
